@@ -1,7 +1,7 @@
 :root {
     --mainColor1: #010409;
     --mainColor2: #999999;
-    --mainColor3: #ffbf00;
+    --mainColor3: #d5a000;
 }
 
 body{
@@ -20,7 +20,7 @@ body{
 }
 
 .logoBegin{
-    width: 20rem;
+    height: 20rem;
 }
 
 .bigGold{
