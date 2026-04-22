@@ -137,8 +137,11 @@
         </div>
 
         <div class="footer">
-            Copyright 2024 - Advogado Darci Krug
+            Copyright <span id="year"></span> - Advogado Darci Krug
         </div>
 	</b>
 </body>
+	<script>
+		document.getElementById("year").textContent = new Date().getFullYear();
+	</script>
 </html>
